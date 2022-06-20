@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MovieApplication</string>
+    <string name="title">Movie Application 07062021</string>
+    <string name="edit">Edit</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save">Save</string>
+    <string name="back">Back</string>
+    <string name="enterTitle">Place enter title… </string>
+    <string name="enterDirector">Place enter director… </string>
+    <string name="enterDescription">Place enter description… </string>
+    <string name="enterCountry">Place enter country… </string>
+    <string name="enterTicketPrice">Place enter ticket price… </string>
+    <string name="close">Close</string>
+
+    <!-- Design texts -->
+    <string name="movieTitle">Movie Title</string>
+    <string name="movieGenre">Movie Genre</string>
+    <string name="movieProfit">Movie Profit</string>
+    <string name="movieViews">Movie Views</string>
+    <string name="movieDescription">Movie Description</string>
+    <string name="movieDirector">Movie Director</string>
+    <string name="movieCountry">Movie Country</string>
+</resources>
